@@ -1,0 +1,27 @@
+.Main{
+    width: 100%;
+    padding-top: 50px;
+}
+.main-wrapper{
+    margin: auto;
+    max-width: 350px;
+    padding: 15px;
+    height: 500px;
+    border: 2px solid #808080;
+    border-radius: 13px;
+}
+.main-list{
+    list-style: none;
+}
+.paragraph{
+    margin: auto;
+    max-width: 300px;
+}
+.main-wrapper a{
+    display: inline-block;
+    padding:6px 22px;
+    background-color: #61dafb;
+    text-decoration: none;
+    color:#fff;
+    margin-left:calc(50% - 36px);
+}

@@ -1,0 +1,9 @@
+.header{
+    max-width: 1270px;
+    margin: auto;
+    background-color: #61dafb;
+}
+.header h1{
+    text-align: center;
+    margin: 0;
+}

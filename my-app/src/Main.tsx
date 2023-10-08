@@ -17,7 +17,7 @@ export const Main = () => (
                 <li className='main-list-item'>My age: {userObj.age}</li>
                 <li className='main-list-item'>My weight: {userObj.weight}</li>
             </ul>
-            <a href="https://google.com" target='_blank'>Link</a>
+            <a href="google.com" target='_blank'>Link</a>
         </div>
     </div>
 );
